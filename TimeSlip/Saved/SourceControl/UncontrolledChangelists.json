@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/aruss/Documents/GitHub/TimeSlip/TimeSlip/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/aruss/Documents/GitHub/TimeSlip/TimeSlip/Content/Enemies/Soldier_Base.uasset",
+				"C:/Users/aruss/Documents/GitHub/TimeSlip/TimeSlip/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/YS/DTOQQ42QIIT032PM0SLM63.uasset",
 				"D:/GAME PROTOTYPING/MyProject2/Content/FirstPerson/Input/MobileControls.uasset",
 				"D:/GAME PROTOTYPING/MyProject2/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms.uasset",
 				"D:/GAME PROTOTYPING/MyProject2/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset",
